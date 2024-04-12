@@ -1,1 +1,3 @@
-# playground-public
+# Public playground
+
+<!-- TODO: Какая-то проблема -->
